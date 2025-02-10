@@ -74,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2. npx creare-react-app animated-news
 3. git init
 4. git remote add origin https://github.com/aayushi02agarwal/animatedNews.git
-5. 
+5. check with git remote -v
+6. commit and push
